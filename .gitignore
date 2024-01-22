@@ -5,6 +5,4 @@ dist/
 *.tmp 
 
 Config.json
-package.json
-myfile.json
 node_modules
